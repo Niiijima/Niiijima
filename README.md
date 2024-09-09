@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Niiijima
-- 👀 I’m interested in DANCING
-- 🌱 I’m currently learning System engineering
-- 💞️ I’m looking to collaborate on... life on mars
-- 📫 How to reach me...dont bother
+- 👀 I’m interested in DANCING and CODING
+- 🌱 I’m currently learning System engineering and exploring front-end & back-end development
+- 💞️ I’m looking to collaborate on beginner-friendly web development projects
+- 📫 How to reach me qagwu11@gmail.com
 
 <!---
 Niiijima/Niiijima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
