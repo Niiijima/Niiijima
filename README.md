@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niiijima
-- 👀 I’m interested in DANCING and CODING
+- 👀 I’m interested in CODING
 - 🌱 I’m currently learning System engineering and exploring front-end & back-end development
 - 💞️ I’m looking to collaborate on beginner-friendly web development projects
 - 📫 How to reach me qagwu11@gmail.com
